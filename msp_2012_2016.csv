@@ -29,7 +29,6 @@
 27,Copra (Ball)_Yellow,2012,Other Crops,5350.0
 28,COCONUT,2012,Other Crops,1400.0
 29,Jute_Yellow,2012,Other Crops,2200.0
-30,SUGAR-CANE,2012,Other Crops,170.0
 31,PADDY-UNHUSKED,2013,Kharif Crops,1310.0
 32,RICE(PADDY-HUS),2013,Kharif Crops,1345.0
 33,Jowar_Hybrid,2013,Kharif Crops,1500.0
@@ -60,7 +59,6 @@
 58,Copra (Ball)_Yellow,2013,Other Crops,5500.0
 59,COCONUT,2013,Other Crops,1425.0
 60,Jute_Yellow,2013,Other Crops,2300.0
-61,SUGAR-CANE,2013,Other Crops,210.0
 62,PADDY-UNHUSKED,2014,Kharif Crops,1360.0
 63,RICE(PADDY-HUS),2014,Kharif Crops,1400.0
 64,Jowar_Hybrid,2014,Kharif Crops,1530.0
@@ -91,7 +89,6 @@
 89,Copra (Ball)_Yellow,2014,Other Crops,5500.0
 90,COCONUT,2014,Other Crops,1425.0
 91,Jute_Yellow,2014,Other Crops,2400.0
-92,SUGAR-CANE,2014,Other Crops,220.0
 93,PADDY-UNHUSKED,2015,Kharif Crops,1410.0
 94,RICE(PADDY-HUS),2015,Kharif Crops,1450.0
 95,Jowar_Hybrid,2015,Kharif Crops,1570.0
@@ -119,10 +116,8 @@
 117,SAFFLOWER,2015,Rabi Crops,3300.0
 118,Toria_Yellow,2015,Rabi Crops,3290.0
 119,Copra (Milling)_Yellow,2015,Other Crops,5550.0
-120,Copra (Ball)_Yellow,2015,Other Crops,5830.0
 121,COCONUT,2015,Other Crops,1500.0
 122,Jute_Yellow,2015,Other Crops,2700.0
-123,SUGAR-CANE,2015,Other Crops,230.0
 124,PADDY-UNHUSKED,2016,Kharif Crops,1470.0
 125,RICE(PADDY-HUS),2016,Kharif Crops,1510.0
 126,Jowar_Hybrid,2016,Kharif Crops,1625.0
@@ -149,8 +144,4 @@
 147,MUSTARD,2016,Rabi Crops,3125.0
 148,SAFFLOWER,2016,Rabi Crops,3037.5
 149,Toria_Yellow,2016,Rabi Crops,3075.0
-150,Copra (Milling)_Yellow,2016,Other Crops,5950.0
-151,Copra (Ball)_Yellow,2016,Other Crops,6240.0
-152,COCONUT,2016,Other Crops,1600.0
 153,Jute_Yellow,2016,Other Crops,3200.0
-154,SUGARCANE,2016,Other Crops,230.0
